@@ -20,7 +20,7 @@ idna = "==2.7"
 lxml = "==4.7.1"
 pytz = "==2019.3"
 requests = "==2.22.0"
-urllib3 = "==1.24.3"
+urllib3 = "==1.25.11"
 
 [tool.poetry.dev-dependencies]
 codecov = "^2.1.7"
