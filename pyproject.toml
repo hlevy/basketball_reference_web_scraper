@@ -14,7 +14,7 @@ exclude = ["tests", "docs"]
 
 [tool.poetry.dependencies]
 python = "^3.5"
-certifi = "==2018.10.15"
+certifi = "==2019.6.16"
 chardet = "==3.0.4"
 idna = "==2.7"
 lxml = "==4.7.1"
